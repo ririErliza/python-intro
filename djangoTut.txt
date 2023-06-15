@@ -1,0 +1,10 @@
+after successfully installing virtual env,
+
+create a django prject:
+
+(myproject) C:\Users\erliz\Documents\python-django>django-admin startproject myapp
+
+(myproject) C:\Users\erliz\Documents\python-django>cd myapp
+
+(myproject) C:\Users\erliz\Documents\python-django\myapp>
+
